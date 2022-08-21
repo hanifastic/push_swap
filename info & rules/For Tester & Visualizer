@@ -1,0 +1,20 @@
+Görşelleştirici için kod: 
+
+python3 python_visualizer.py `ruby -e "puts (-50..50).to_a.shuffle.join(' ')"`
+
+Aynı teste içindeki teste kodu:
+
+bash lfrasson_tester.sh
+
+
+-------------------
+
+Diğer teste için kod:
+
+bash loop.sh 100 100      100 sayıyı 100 kere kontrol ediyor.
+
+
+bash loop.sh 500 100.     500 sayıyı 500 kere kontrol ediyor. 
+
+
+
